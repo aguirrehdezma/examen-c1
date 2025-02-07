@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamenC1</string>
+    <string name="costo">Costo</string>
+    <string name="years">Años</string>
+    <string name="pagar">Pagar $</string>
+
+    <string-array name="polizas">
+        <item>Tipo Póliza</item>
+        <item>Autos Sedán</item>
+        <item>Camionetas</item>
+        <item>Autos Deportivos</item>
+    </string-array>
+</resources>
